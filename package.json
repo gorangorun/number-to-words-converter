@@ -1,0 +1,26 @@
+{
+  "name": "number-to-words-converter",
+  "version": "1.0.0",
+  "description": "Fast and lightweight number to words convertor",
+  "main": "src/number-to-words.js",
+  "keywords": [
+    "convert",
+    "number-to-words"
+  ],
+  "author": "Goran <gorang.pub@gmail.com>",
+  "homepage": "https://tools.base64decode.net/libs/number-to-words-converter",
+  "license": "MIT",
+  "type": "module",
+  "bugs": "https://github.com/gorangorun/number-to-words-converter/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gorangorun/number-to-words-converter.git"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
